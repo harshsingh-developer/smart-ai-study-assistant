@@ -67,7 +67,7 @@ Prerequisites
 Installation
 
 # 1. Clone the repository
-git clone https://github.com/YOURUSERNAME/ai-study-assistant.git
+git clone https://github.com/harshsingh-developer/ai-study-assistant.git
 cd ai-study-assistant
 
 # 2. Create and activate a virtual environment (recommended)
@@ -169,7 +169,7 @@ Adding a new personality is as simple as adding one entry to src/config.py.
 Distributed under the MIT License. See LICENSE for details.
 ⸻
 <div align="center">
-  Built with ❤️ by <a href="https://github.com/YOURUSERNAME">Your Name</a>
+  Built with ❤️ by <a href="https://github.com/harshsingh-developer">Your Harsh Singh</a>
   <br/>
   <sub>⭐ Star this repo if it helped you!</sub>
 </div>
